@@ -23,3 +23,16 @@ Or if you've already cloned the repository:
 ```bash
 git submodule update --init --recursive
 ``` 
+
+# Submodule 1
+
+This is the first test submodule.
+
+## Features
+
+- Basic functionality for submodule testing
+- Demonstrates independent development within a submodule
+
+## Usage
+
+This submodule is designed to be included in the main submoduletest repository. 
